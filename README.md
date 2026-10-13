@@ -6,8 +6,6 @@ SoundSight is an accessibility-focused web application designed to help Deaf and
 
 Built with Next.js, TypeScript, Python, and FastAPI, SoundSight brings together several AI-powered audio processing technologies in a mobile-friendly interface.
 
-**[View SoundSight on Devpost](https://devpost.com/software/soundsight-qlvn5y)**
-
 ---
 
 ## Features
@@ -415,14 +413,6 @@ This repository is a fork of the original SoundSight project.
 **Forked Repository:** [jaskaranbhogal/SoundSight](https://github.com/jaskaranbhogal/SoundSight)
 
 For additional information about the project and the team, visit the Devpost submission.
-
----
-
-## Devpost
-
-Learn more about SoundSight, its development, and the team behind the project:
-
-**[SoundSight — Devpost Project Submission](https://devpost.com/software/soundsight-qlvn5y)**
 
 ---
 
